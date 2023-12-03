@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#                                           💫 Hello, I am Satyabrata Ojha
 🔭 I’m currently working on my skillset in the field of Web Development and Database Designing<br>🌱 I’m currently learning Web Development and Database Designing<br>💬 Ask me about DSA, Web Development, JAVA, Database Queries<br>📫 How to reach me: satyabrat637@gmail.com <br>
 
 
